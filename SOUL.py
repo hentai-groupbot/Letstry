@@ -3,8 +3,8 @@ import subprocess #line:3
 import datetime #line:4
 import os #line:5
 import time #line:6
-bot =telebot .TeleBot ('7258346581:AAFhghjRWA1fSODYaf6MqRO_C9mBYQbMcl0')#line:9
-ADMIN_IDS ={"1600832237"}#line:12
+bot =telebot .TeleBot ('7433756214:AAExYkLpssDr7X7EpD4iWnXRe7rmZaOdMgY')#line:9
+ADMIN_IDS ={"1753440697"}#line:12
 USER_FILE ="users.txt"#line:15
 LOG_FILE ="log.txt"#line:18
 COOLDOWN_TIME =300 #line:21
